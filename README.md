@@ -1,6 +1,10 @@
 # NOSE
 Low cost environmental sensor for office spaces
 
+|![](design/img/02.jpg)|![](design/img/01.jpg)|
+|---|---|
+
+
 # Hardware
 * CCS811 breakboard $9.50 USD https://www.aliexpress.com/item/CJMCU-811-CCS811-Carbon-Monoxide-CO-VOCs-Air-Quality-Numerical-Gas-Sensors/32762314271.html
 * DHT11 sensor $0.91 USD https://www.ebay.com/itm/Sensitivity-Digital-DHT11-DHT-11-Temperature-and-Humidity-Sensor-For-Arduino/232382321233
