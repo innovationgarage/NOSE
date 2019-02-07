@@ -11,7 +11,7 @@ Low cost environmental sensor for office spaces
 * LOLIN (WEMOS) D1 R2 & Mini ESP8266 board http://arduino.esp8266.com/stable/package_esp8266com_index.json
 * Modded CCS811 library: https://github.com/eried/CCS811
 
-# Software
-ThingSpeak dashboard
+# Software 
+* ThingSpeak dashboard https://thingspeak.com/channels/692748
 
 ![](dashboard.PNG)
