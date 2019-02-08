@@ -2,6 +2,7 @@
 Low cost environmental sensor for office spaces
 
 Sculpted from the finest examples around the world
+
 ![](https://media.giphy.com/media/47ycClOoBn6siep6GK/giphy.gif)
 
 The N.O.S.E. has light indicators to state the current CO2 (by the level of green, looking sick) or temperature (if the office is cold, it gets red). Also has a party mode.
